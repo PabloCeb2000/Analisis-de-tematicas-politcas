@@ -1,5 +1,6 @@
 # Analisis-de-tematicas-politcas
-##Modelo de IA para solución de un problema del mundo real - Análisis Temporal de Narrativas Políticas Emergentes.
+##Modelo de IA para solución de un problema del mundo real - Análisis Temporal de Narrativas Políticas Emergentes
+
 ## Realizado por:
 * Adrián Aguilar Sánchez 
 * César Andrés Ceballos Castillo 
@@ -7,9 +8,10 @@
 * José Francisco Lara Delgado 
 * Humberto Iván Ulloa Cardona
 
-##Objetivos.
+##Objetivos
 * Demostrar los cambios dentro de la narrativa política de las elecciones presidenciales mexicanas del 2024, por medio del uso de herramientas y tecnologías de inteligencia artificial (Procesamiento de Lenguaje Natural y Deep Learning).
 * Comprobar el uso de datos provenientes de redes sociales como válidos para realizar el análisis de narrativas y obtener resultados concisos.
+
 ##Metodología
 * **Preparación del proyecto**. Entender los objetivos del proyecto y establecer metas, así como seleccionar una o varias soluciones.
 * **Preparación de los datos**. Recolectar los datos pertinentes para el proyecto, así como realizar un preprocesado y feature engineering correcto, esto con el fin de obtener una división de datos precisa (train y test).
