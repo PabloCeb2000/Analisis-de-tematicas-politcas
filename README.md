@@ -5,7 +5,8 @@
 * César Andrés Ceballos Castillo 
 * Pablo Ceballos Gutiérrez 
 * José Francisco Lara Delgado 
-* Humberto Iván Ulloa Cardona 
+* Humberto Iván Ulloa Cardona
+
 ##Objetivos.
 * Demostrar los cambios dentro de la narrativa política de las elecciones presidenciales mexicanas del 2024, por medio del uso de herramientas y tecnologías de inteligencia artificial (Procesamiento de Lenguaje Natural y Deep Learning).
 * Comprobar el uso de datos provenientes de redes sociales como válidos para realizar el análisis de narrativas y obtener resultados concisos.
